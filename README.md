@@ -2,7 +2,7 @@
 Mailer page for free you can use in anything you want (without smtp)
  
 # Idea
-You can send a file with message (html code) to a list of domains
+You can send a file with message (html code) to a list of emails
 
 
 # Page:
