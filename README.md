@@ -24,7 +24,7 @@ im using xampp :
 
 # Credits
 This tool was written in python3  
-Twitter@cmd_sh , Github@STRENBOW
+Twitter@cmd_sh , Github@M2NS
 
 
 <img src="https://i.ibb.co/55DC66D/1457343592535.png" alt="" >
